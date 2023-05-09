@@ -1,1 +1,3 @@
 # AnalizaBesed
+
+Ukvarjali se bomo...
